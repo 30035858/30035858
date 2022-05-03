@@ -1,0 +1,4 @@
+- 👋 Hi, I am 30035858 or N1033862
+- 👀 I’m interested in powerlifting and anything technology.
+- 🌱 I’m currently learning how to use Visual studio and VScode for my courses at university.
+- 💞️ I’m looking to for tips and tricks when it comes to web & app development and anything cool & interesting. 
