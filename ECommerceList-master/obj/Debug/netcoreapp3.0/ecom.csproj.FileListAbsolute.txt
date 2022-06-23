@@ -1,0 +1,32 @@
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.exe
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.deps.json
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.runtimeconfig.json
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.runtimeconfig.dev.json
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.dll
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.pdb
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\bin\Debug\netcoreapp3.0\ConsoleTables.dll
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.csproj.AssemblyReference.cache
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.AssemblyInfoInputs.cache
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.AssemblyInfo.cs
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.csproj.CoreCompileInputs.cache
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.csproj.CopyComplete
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.dll
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.pdb
+C:\Users\achil\Downloads\ECommerceList-master\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.genruntimeconfig.cache
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.exe
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.deps.json
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.runtimeconfig.json
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.runtimeconfig.dev.json
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.dll
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ecom.pdb
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\bin\Debug\netcoreapp3.0\ConsoleTables.dll
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.csproj.AssemblyReference.cache
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.AssemblyInfoInputs.cache
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.AssemblyInfo.cs
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.csproj.CoreCompileInputs.cache
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.csproj.CopyComplete
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.dll
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.pdb
+C:\Users\achil\OneDrive\Desktop\Study\Computer Science\Certificate in Information System Essentials Lv 4\System Development\New Project\ECommerceList-master\obj\Debug\netcoreapp3.0\ecom.genruntimeconfig.cache
